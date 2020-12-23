@@ -123,7 +123,7 @@ NameError: name 'Post' is not defined
 <QuerySet [<Post: Sample title>, <Post: Post number 2>, <Post: My 3rd post!>, <Post: 4th title of post>]>
 ```
 
-А может быть мы хотим получить все записи со словом 'title' в поле `title`?
+А, может быть, мы хотим получить все записи со словом 'title' в поле `title`?
 
 {% filename %}command-line{% endfilename %}
 ```python
